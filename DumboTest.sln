@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{85BE42D0-0349-EBAC-FD0A-493A1F31B646}") = "DumboTest", "Assembly-CSharp.csproj", "{B381F778-AA83-1E0B-43DD-0773C48ADFD0}"
+EndProject
+Project("{85BE42D0-0349-EBAC-FD0A-493A1F31B646}") = "DumboTest", "Assembly-CSharp-Editor.csproj", "{518D0570-89D1-9348-8359-9BF6555C7082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B381F778-AA83-1E0B-43DD-0773C48ADFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B381F778-AA83-1E0B-43DD-0773C48ADFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B381F778-AA83-1E0B-43DD-0773C48ADFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B381F778-AA83-1E0B-43DD-0773C48ADFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{518D0570-89D1-9348-8359-9BF6555C7082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518D0570-89D1-9348-8359-9BF6555C7082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518D0570-89D1-9348-8359-9BF6555C7082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518D0570-89D1-9348-8359-9BF6555C7082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
